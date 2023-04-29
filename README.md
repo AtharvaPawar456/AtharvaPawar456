@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Web: Flask, Tailwind MERN-stack\n IoT: IoT Platform, Esp8266/Esp32(Arduino.IDE) programming**
 
-- 👨‍💻 All of my projects are available at [www.github.com.link](www.github.com.link)
+<!-- - 👨‍💻 All of my projects are available at [www.github.com.link](www.github.com.link) -->
 
 - 💬 Ask me about **IoT: ESP8266/ESP32, Flask, MIT App Inventor**
 
 - 📫 How to reach me **talktoatharva14@gmail.com**
 
-- 📄 Know about my experiences [www.resume.link](www.resume.link)
+<!-- - 📄 Know about my experiences [www.resume.link](www.resume.link) -->
 
 - ⚡ Fun fact **I think, I Over Think, Everything !!!**
 
