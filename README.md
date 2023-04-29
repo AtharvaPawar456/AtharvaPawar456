@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AtharvaPawar456/AtharvaPawar456/main/Atharv%20Pawar.png" alt="Github Banner">
+
 <h1 align="center">Hi 👋, I'm Atharva Pawar</h1>
 <h3 align="center">A passionate IoT & Web developer from India</h3>
 
