@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AtharvaPawar456/AtharvaPawar456/main/AtharvaPawar.png" alt="Github Banner">
 
 <h1 align="center">Hi 👋, I'm Atharva Pawar</h1>
-<h3 align="center">A passionate IoT & Web developer from India</h3>
+<h3 align="center">A passionate IoT & Web App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvapawar456&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapawar456" /> </p>
 
