@@ -21,7 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left">
+<!-- <p align="left"> -->
+<p >
 <a href="https://linkedin.com/in/atharva-pawar-536318232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-pawar-536318232" height="30" width="40" /></a>
 
 <a href="https://kaggle.com/atharvapawar456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharvapawar456" height="30" width="40" /></a>
