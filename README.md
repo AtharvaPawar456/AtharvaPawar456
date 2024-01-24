@@ -47,8 +47,10 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapawar456&show_icons=true&theme=radical)](https://github.com/atharvapawar456/github-readme-stats)
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvapawar456&show_icons=true&locale=en&layout=compact" alt="atharvapawar456" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvapawar456&show_icons=true&locale=en" alt="atharvapawar456" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvapawar456&" alt="atharvapawar456" /></p>
+-->
