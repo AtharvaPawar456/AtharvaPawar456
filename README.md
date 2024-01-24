@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **AgiMark : One Stop Solution for Argiculture**
 
-- 🌱 I’m currently learning **Flask, MERN & IoT**
+- 🌱 I’m currently learning **LLM, Flask, MERN, IoT & Java**
 
-- 🤝 I’m looking for help with **AI/ML**
+- 🤝 I’m looking for help with **AI/ML and LLM**
 
 <!-- - 👨‍💻 All of my projects are available at [www.github.com.link](www.github.com.link) -->
 
