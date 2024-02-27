@@ -40,14 +40,18 @@
 
 <br>
 
-### Github Streak 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharvapawar456&theme=radical)](https://git.io/streak-stats)
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shaunpimenta>&theme=<THEME_NAME>" /> -->
-### 📈 Github Stat's
-![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvapawar456&show_icons=true&theme=radical)
-<!-- [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats) -->
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapawar456&show_icons=true&theme=radical)](https://github.com/atharvapawar456/github-readme-stats)
+# ⚙️ GitHub Analytics
+  
+<table align="center">
+  <tr>
+    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=atharvapawar456&show_icons=true&theme=dark" alt="atharvapawar456"/>
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapawar456&layout=compact&theme=dark" alt="atharvapawar456"/></td>
+  </tr>
+</table>
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvapawar456&layout=compact&theme=dark" alt="atharvapawar456"/></p>
+</div>
 
 # 📈 Contribution Graph  
 
