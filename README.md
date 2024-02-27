@@ -43,7 +43,7 @@
 ### Github Streak 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharvapawar456&theme=radical)](https://git.io/streak-stats)
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shaunpimenta>&theme=<THEME_NAME>" /> -->
-### Github Stat's
+### 📈 Github Stat's
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvapawar456&show_icons=true&theme=radical)
 <!-- [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats) -->
 ### Top Languages
@@ -57,9 +57,6 @@
 # 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atharvapawar456&row=1)](https://github.com/atharvapawar456/github-profile-trophy)
-
-# 📈 GitHub stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvapawar456&show_icons=true&theme=radical)
 
 # YouTube Subscriber Count
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC-4DLi09HhYfUn7DEeWzryQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UC-4DLi09HhYfUn7DEeWzryQ)
