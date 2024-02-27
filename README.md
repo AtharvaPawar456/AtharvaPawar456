@@ -58,6 +58,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atharvapawar456&row=1)](https://github.com/atharvapawar456/github-profile-trophy)
 
+# 📈 GitHub stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvapawar456&show_icons=true&theme=radical)
+
+# YouTube Subscriber Count
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC-4DLi09HhYfUn7DEeWzryQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UC-4DLi09HhYfUn7DEeWzryQ)
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvapawar456&show_icons=true&locale=en&layout=compact" alt="atharvapawar456" /></p>
 
