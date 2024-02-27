@@ -49,6 +49,15 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapawar456&show_icons=true&theme=radical)](https://github.com/atharvapawar456/github-readme-stats)
 
+# 📈 Contribution Graph  
+
+ [![RIjans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atharvapawar456&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/atharvapawar456/github-readme-activity-graph)
+ 
+
+# 🏆 Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atharvapawar456&row=1)](https://github.com/atharvapawar456/github-profile-trophy)
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvapawar456&show_icons=true&locale=en&layout=compact" alt="atharvapawar456" /></p>
 
