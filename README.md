@@ -53,10 +53,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvapawar456&layout=compact&theme=dark" alt="atharvapawar456"/></p>
 </div>
 
-# 📈 Contribution Graph  
-
- [![RIjans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atharvapawar456&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/atharvapawar456/github-readme-activity-graph)
- 
 
 # 🏆 Github Trophies
 
@@ -66,6 +62,12 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC-4DLi09HhYfUn7DEeWzryQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UC-4DLi09HhYfUn7DEeWzryQ)
 
 <!--
+
+# 📈 Contribution Graph  
+
+ [![RIjans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atharvapawar456&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/atharvapawar456/github-readme-activity-graph)
+ 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvapawar456&show_icons=true&locale=en&layout=compact" alt="atharvapawar456" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvapawar456&show_icons=true&locale=en" alt="atharvapawar456" /></p>
